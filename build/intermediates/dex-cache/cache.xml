@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/xueqiaoming/.android/build-cache/1bd93b2c7ab01fd96de4acc67d2e60f7ff5139a9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/Users/xueqiaoming/allutils/study/android/数据结构算法/DataStructureAlg/app/build/intermediates/pre-dexed/debug/classes_b7c478f4c1f0a5bbf4e6dbf5a69de15b5b326aac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xueqiaoming/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/Users/xueqiaoming/allutils/study/android/数据结构算法/DataStructureAlg/app/build/intermediates/pre-dexed/debug/support-annotations-23.3.0_96dbe26406d457d28efdfd2b1375c76a3bdc2917.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xueqiaoming/.android/build-cache/0379223465d2b23f8eb5387ffe9ca253b8ea34ba/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/Users/xueqiaoming/allutils/study/android/数据结构算法/DataStructureAlg/app/build/intermediates/pre-dexed/debug/classes_eec5db184f296662e65bb54f3b19c9059095f7c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xueqiaoming/.android/build-cache/5817daa38a6f093b3b954b55e010b48ef7dd446a/output/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/Users/xueqiaoming/allutils/study/android/数据结构算法/DataStructureAlg/app/build/intermediates/pre-dexed/debug/internal_impl-23.3.0_3e290a68bccbe828f9c1413391e2114e0c1db674.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xueqiaoming/.android/build-cache/7cb7e6551c2f817f3652037bc16891b575947ad8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/Users/xueqiaoming/allutils/study/android/数据结构算法/DataStructureAlg/app/build/intermediates/pre-dexed/debug/classes_6ff89c2feff285b3f8b9fd5e8c409116538d9ab7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xueqiaoming/.android/build-cache/5817daa38a6f093b3b954b55e010b48ef7dd446a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/Users/xueqiaoming/allutils/study/android/数据结构算法/DataStructureAlg/app/build/intermediates/pre-dexed/debug/classes_cf70ca1a5d03ddac611de589e5951209870ac207.jar" />
+    </item>
+
+</items>
